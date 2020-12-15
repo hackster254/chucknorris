@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chucknorris.git/static/css/main.f84d91d8.chunk.css",
+    "main.js": "/chucknorris.git/static/js/main.0048454b.chunk.js",
+    "main.js.map": "/chucknorris.git/static/js/main.0048454b.chunk.js.map",
+    "runtime-main.js": "/chucknorris.git/static/js/runtime-main.95e9a4c1.js",
+    "runtime-main.js.map": "/chucknorris.git/static/js/runtime-main.95e9a4c1.js.map",
+    "static/js/2.c9b064da.chunk.js": "/chucknorris.git/static/js/2.c9b064da.chunk.js",
+    "static/js/2.c9b064da.chunk.js.map": "/chucknorris.git/static/js/2.c9b064da.chunk.js.map",
+    "index.html": "/chucknorris.git/index.html",
+    "static/css/main.f84d91d8.chunk.css.map": "/chucknorris.git/static/css/main.f84d91d8.chunk.css.map",
+    "static/js/2.c9b064da.chunk.js.LICENSE.txt": "/chucknorris.git/static/js/2.c9b064da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e9a4c1.js",
+    "static/js/2.c9b064da.chunk.js",
+    "static/css/main.f84d91d8.chunk.css",
+    "static/js/main.0048454b.chunk.js"
+  ]
+}
